@@ -1,6 +1,6 @@
 # Business Card
 
-This is my second uploaded project from [Scrimba](https://scrimba.com)
+This is my project upload from [Scrimba](https://scrimba.com)
 
 ## Scrimb
 
