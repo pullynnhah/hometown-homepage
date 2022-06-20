@@ -38,7 +38,7 @@ header p {
 }
 
 main {
-  height: 350px;
+  height: 400px;
   color: #333;
   background-color: #c5e5df;
 
@@ -50,7 +50,7 @@ main {
 
 article {
   width: 28vw;
-  height: 300px;
+  height: 350px;
   padding: 30px 0;
 }
 
